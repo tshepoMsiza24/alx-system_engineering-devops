@@ -9,3 +9,4 @@ first 10 lines
 third line
 Best school
 save current state of directory
+duplicate last line
