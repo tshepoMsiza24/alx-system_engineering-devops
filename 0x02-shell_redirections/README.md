@@ -15,3 +15,4 @@ directories
 Whats new
 Being Unique
 must be in that
+count that word
