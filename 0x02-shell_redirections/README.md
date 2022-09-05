@@ -19,3 +19,4 @@ count that word
 Whats next?
 i hate bins
 letter only
+A to Z
