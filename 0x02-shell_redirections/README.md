@@ -22,3 +22,4 @@ letter only
 A to Z
 without C
 esreveR
+dj cut killer
