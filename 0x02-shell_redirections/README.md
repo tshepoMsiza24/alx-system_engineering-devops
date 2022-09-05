@@ -11,3 +11,4 @@ Best school
 save current state of directory
 duplicate last line
 No more javascript
+directories
