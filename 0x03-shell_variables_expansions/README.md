@@ -12,3 +12,4 @@ divide and rule
 love expornent
 binary to decimal
 combinations
+print float
