@@ -15,3 +15,4 @@ combinations
 print float
 decimal to hexa
 rot13
+odd
