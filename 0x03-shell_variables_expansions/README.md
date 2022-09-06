@@ -10,3 +10,4 @@ gloal variable
 true knowledge
 divide and rule
 love expornent
+binary to decimal
