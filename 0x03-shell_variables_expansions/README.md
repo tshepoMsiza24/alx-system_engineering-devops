@@ -5,3 +5,4 @@ path
 paths
 global variables
 local variables
+create local variable
