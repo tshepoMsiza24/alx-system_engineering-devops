@@ -13,3 +13,4 @@ love expornent
 binary to decimal
 combinations
 print float
+decimal to hexa
