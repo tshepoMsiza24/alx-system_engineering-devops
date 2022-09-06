@@ -9,3 +9,4 @@ create local variable
 gloal variable
 true knowledge
 divide and rule
+love expornent
