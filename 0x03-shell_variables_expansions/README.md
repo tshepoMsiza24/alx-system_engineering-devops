@@ -4,3 +4,4 @@ hello you
 path
 paths
 global variables
+local variables
