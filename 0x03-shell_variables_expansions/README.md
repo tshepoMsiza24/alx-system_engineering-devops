@@ -7,3 +7,4 @@ global variables
 local variables
 create local variable
 gloal variable
+true knowledge
