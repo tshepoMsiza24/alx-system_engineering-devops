@@ -14,3 +14,4 @@ binary to decimal
 combinations
 print float
 decimal to hexa
+rot13
